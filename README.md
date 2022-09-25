@@ -5,7 +5,7 @@ scDML (Batch Alignment of **s**ingle **c**ell transcriptomics data using **D**ee
 
 ![](workflow1.png)
 
-This repository is dedicated to providing the code used to perform all evaluations in the scDML paper.It includes code used to generate results for scDML,and for every competing method. The scDML method's repository can be found [https://github.com/eleozzr/scDML](https://github.com/eleozzr/scDML)
+This repository is dedicated to providing the code used to perform all evaluations in the scDML paper. It includes code used to regenerate results for scDML and every competing method. The scDML method's repository can be found at [https://github.com/eleozzr/scDML](https://github.com/eleozzr/scDML)
 
 
 ## Compared Methods
@@ -29,7 +29,7 @@ Here we compared 9 popular methods with scDML.
 
 - `Method_script`: python script or R script for different methods  
 - `Bash_script`: bash script to run all methods on a dataset  
-- `data_used`: all data analyzed in scDML manuscript. Here we only provide two datasets [Mammary epithelial cells (bct_raw.zip)](./data_used/bct_raw.zip) and  [macaque_retina (macaque_raw.zip)](./data_used/macaque_raw.zip). And the full dataset will be available from [10.6084/m9.figshare.20499630](10.6084/m9.figshare.20499630)).
+- `data_used`: all data analyzed in scDML manuscript. Here we only provide two datasets [Mammary epithelial cells (bct_raw.zip)](./data_used/bct_raw.zip) and  [macaque_retina (macaque_raw.zip)](./data_used/macaque_raw.zip). The full dataset will be available from [10.6084/m9.figshare.20499630](10.6084/m9.figshare.20499630)).
 
 - `Method_evaluation`: jupyter notebooks of evaluation for all methods on different datasets.
 
